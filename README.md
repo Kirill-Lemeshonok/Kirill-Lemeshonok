@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kirill-Lemeshonok
 - 👀 I’m interested in  Program development in Python
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collabora 
 - 📫 How to reach me (lemesonok.kirill@gmail.com)
 
 <!---
